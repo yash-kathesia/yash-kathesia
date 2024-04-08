@@ -10,7 +10,7 @@
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: </h3>
 <p align="left">
 <a href="https://twitter.com/YKathesia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Yash Kathesia" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/yash-kathesia-5245601a9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Yash Kathesia" height="30" width="40" /></a>
@@ -45,7 +45,7 @@
     <!-- Bootstrap -->
     <img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg"/>
     <!-- JavaScript -->
-    <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+    <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> <br /> <br />
     <!-- MSSQL -->
     <img align="left" alt="MSSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />
     <!-- MySQL -->    
@@ -63,6 +63,12 @@
     <!-- GitHub -->
     <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </p>
+
+<br />
+
+---
+
+<br /> 
 <a href="https://github.com/yash-kathesia">
           <img align="center" src="https://github-readme-stats.vercel.app/api?username=yash-kathesia&count_private=true&show_icons=true&theme=swift" alt=" 📊 Yash's GitHub Stats" />
 </a>

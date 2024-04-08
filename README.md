@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yash Kathesia</h1>
-<h3 align="center">Passionate about Full Stack Web Development</h3>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&duration=4000&pause=800&center=true&vCenter=true&random=false&width=435&lines=Passionate+about+Full+Stack+Web+Development;Interested+in+Java;Always+learning+new+things" alt="Typing SVG" /></a>
+</p>
+<!-- <h3 align="center">Passionate about Full Stack Web Development</h3> -->
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🌱 I’m currently learning **Java Framework**
 

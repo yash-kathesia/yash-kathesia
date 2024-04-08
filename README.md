@@ -12,18 +12,24 @@
 
 <h3 align="left">Connect with me: </h3>
 <p align="left">
-<a href="https://twitter.com/YKathesia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Yash Kathesia" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/yash-kathesia-5245601a9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Yash Kathesia" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/24059744/yash-kathesia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Yash Kathesia" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/yashkathesia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Yash Kathesia" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100012327816681" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Yash Kathesia" height="30" width="40" /></a>
-<a href="https://instagram.com/kathesiaking" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Yash Kathesia" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@yashkathesia9856" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Yash Kathesia" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/yashkathesia" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="Yash Kathesia" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/yash_kathesia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Yash Kathesia" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/yash_kathesia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Yash Kathesia" height="30" width="40" /></a>
-<a href="https://leetcode.com/yashkathesia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yashkathesia" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/yashkathesia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Yash Kathesia" height="30" width="40" /></a>
+    <!-- Twitter -->
+    <a href="https://twitter.com/YKathesia" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" alt="Yash Kathesia" height="30" width="40" /></a>
+    <!-- Linkedin -->
+    <a href="https://www.linkedin.com/in/yash-kathesia-5245601a9/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="Yash Kathesia" height="30" width="40" /></a>
+    <!-- Stackoverflow -->
+    <a href="https://stackoverflow.com/users/24059744/yash-kathesia" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original-wordmark.svg" alt="Yash Kathesia" height="30" width="40" /></a>
+    <!-- Kaggle -->
+    <a href="https://www.kaggle.com/yashkathesia" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg" alt="Yash Kathesia" height="30" width="40" /></a>
+    <!-- CodeChef -->
+    <a href="https://www.codechef.com/users/yashkathesia" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="Yash Kathesia" height="30" width="40" /></a>
+    <!-- Hackerrank -->
+    <a href="https://www.hackerrank.com/profile/yash_kathesia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Yash Kathesia" height="30" width="40" /></a>
+    <!-- Codeforces -->
+    <a href="https://codeforces.com/profile/yash_kathesia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Yash Kathesia" height="30" width="40" /></a>
+    <!-- Leetcode -->
+    <a href="https://leetcode.com/yashkathesia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yashkathesia" height="30" width="40" /></a>
+    <!-- Geeksforgeeks -->
+    <a href="https://auth.geeksforgeeks.org/user/yashkathesia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Yash Kathesia" height="30" width="40" /></a>
 </p>
 
 ---

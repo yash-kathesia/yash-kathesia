@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash Kathesia</h1>
 <h3 align="center">Passionate about Full Stack Web Development</h3>
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🌱 I’m currently learning **Sping Boot.**
 
 - 📫 How to reach me **yashkathesia@gmail.com**

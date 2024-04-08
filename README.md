@@ -75,6 +75,6 @@
 ---
 
 <br /> 
-<a href="https://github.com/yash-kathesia">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=yash-kathesia&count_private=true&show_icons=true&theme=swift" alt=" 📊 Yash's GitHub Stats" />
-</a>
+
+| <a href="https://github.com/yash-kathesia"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yash-kathesia&show_icons=true&include_all_commits=true&theme=swift&hide_border=true" alt=" 📊 Yash's GitHub Stats" /></a> | <a href="https://github.com/yash-kathesia"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-kathesia&layout=compact&theme=swift&hide_border=true" /></a> |
+| ------------- | ------------- |

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yash Kathesia</h1>
 <h3 align="center">Passionate about Full Stack Web Development</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-- 🌱 I’m currently learning **Sping Boot.**
+- 🌱 I’m currently learning **Java Framework**
 
 - 📫 How to reach me **yashkathesia@gmail.com**
 
@@ -79,4 +79,7 @@
     <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" /> </a>
 </p>
-[![Yash Kathesia's GitHub stats](https://github-readme-stats.vercel.app/api?username=yash-kathesia)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/yash-kathesia">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=yash-kathesia&count_private=true&show_icons=true&theme=nightowl" alt="Yash's GitHub Stats" />
+</a>
+<!-- [![Yash Kathesia's GitHub stats](https://github-readme-stats.vercel.app/api?username=yash-kathesia)](https://github.com/anuraghazra/github-readme-stats) -->

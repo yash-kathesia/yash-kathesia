@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Kathesia</h1>
-<h3 align="center">A passionate about Full Stack Web Development</h3>
+<h3 align="center">Passionate about Full Stack Web Development</h3>
 
 - 🌱 I’m currently learning **Sping Boot.**
 
@@ -15,7 +15,7 @@
 <a href="https://instagram.com/kathesiaking" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Yash Kathesia" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@yashkathesia9856" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Yash Kathesia" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/yashkathesia" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="Yash Kathesia" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/yashkathesia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Yash Kathesia" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/yash_kathesia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Yash Kathesia" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/yash_kathesia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Yash Kathesia" height="30" width="40" /></a>
 <a href="https://leetcode.com/yashkathesia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yashkathesia" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/yashkathesia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Yash Kathesia" height="30" width="40" /></a>
